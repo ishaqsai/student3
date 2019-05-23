@@ -12,7 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class parttime {
     public static void mian(String[] args)
     {
-       System.out.println("hi");
+       public static void mian(String[] args)
     }
     
 }
